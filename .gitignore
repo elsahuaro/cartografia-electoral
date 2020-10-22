@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+ce/
+*~
+*.pkl
+PELN/*.xls
+EDMS/*.shp
+EDMS/*.dbf
+EDMS/*.shx
+EDMS/*.qpj
+EDMS/*.prj
+ECPC/*.csv
+ECPC/*.txt
